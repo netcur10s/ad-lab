@@ -16,7 +16,7 @@ reflecting the dual awareness required in SOC work.
 | Exercise | Category | Tools Used | Difficulty |
 |----------|----------|------------|------------|
 | [AD Lab Setup](./ad_labSetup.md) | Environment Build | Proxmox | Beginner |
-| [LLMNR Poisoning](./ntlmrelayattack.md) | Attack method | NTLMrelay | Easy |
+| [LLMNR Poisoning](./ntlmrelayattack.md) | Attack method | NTLMrelay | Beginner |
 
 *More exercises added as the lab grows.*
 
