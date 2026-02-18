@@ -15,7 +15,7 @@ reflecting the dual awareness required in SOC work.
 
 | Exercise | Category | Tools Used | Difficulty |
 |----------|----------|------------|------------|
-| [AD Lab Setup](./setup) | Environment Build | VirtualBox / Proxmox | Beginner |
+| [AD Lab Setup](./ad_labSetup.md) | Environment Build | VirtualBox / Proxmox | Beginner |
 
 *More exercises added as the lab grows.*
 
