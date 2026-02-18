@@ -4,13 +4,6 @@ A hands-on lab environment built to explore Active Directory attack paths,
 defensive configurations, and enterprise security concepts relevant to SOC 
 and blue team roles.
 
-## 📋 About This Repo
-
-This repo documents my Active Directory home lab — including setup, 
-attack simulations, and defensive analysis. Each exercise covers both 
-the offensive technique and the defensive detection or mitigation strategy, 
-reflecting the dual awareness required in SOC work.
-
 ## 📂 Exercises
 
 | Exercise | Category | Tools Used | Difficulty |
